@@ -1,0 +1,12 @@
+{
+  "name": "first-plugin",
+  "version": "1.0.0",
+  "generator-core-version": ">=3.7.0",
+  "description": "はじめてのPhotoshop Generatorプラグイン",
+  "main": "main.js",
+  "author": "hrfm",
+  "license": "MIT",
+  "devDependencies": {
+    "oscsocket": "^0.1.6"
+  }
+}
