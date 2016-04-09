@@ -1,8 +1,8 @@
 {
-  "name": "first-plugin",
-  "version": "1.0.0",
+  "name": "PSGenILDA",
+  "version": "0.0.3",
   "generator-core-version": ">=3.7.0",
-  "description": "はじめてのPhotoshop Generatorプラグイン",
+  "description": "IDLA Laser Animation by Photoshop Generator.",
   "main": "main.js",
   "author": "hrfm",
   "license": "MIT",
