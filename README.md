@@ -37,6 +37,8 @@ https://github.com/adobe-photoshop/generator-core
 
 ### 6. Run openframeworks App.
 
+    /PSGenILDA/openframeworks/app/PSGenILDADebug
+
 ---
 
 ## oF App
