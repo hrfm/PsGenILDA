@@ -22,7 +22,7 @@
     function onSuccess(event){
 	    //console.log("success",event);
 	    var msg = new osc.OSCMessage( "/path ," + event.types + " " + event.points );
-	    socket.send( msg, 10001 );
+	    socket.send( msg, 22222 );
 	}
 
     function onError(event){

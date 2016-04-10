@@ -6,7 +6,7 @@ void ofApp::setup(){
     ofBackground(0, 0, 0);
     ofSetFrameRate(60);
     
-    receiver.setup(10001);
+    receiver.setup(22222);
     
     etherdream.setup();
     etherdream.setPPS(30000);
@@ -126,12 +126,18 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
+    
+    string buf;
+    buf = "Listening message form photoshop-generator on port : 222222";
+    ofDrawBitmapString(buf, 10, 20);
+
     // do your thang
     ildaFrame.update();
     // draw to the screen
     ildaFrame.draw(0, 0, ofGetWidth(), ofGetHeight());
     // send points to the etherdream
     etherdream.setPoints(ildaFrame);
+    
 }
 
 //--------------------------------------------------------------
