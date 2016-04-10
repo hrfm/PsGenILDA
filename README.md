@@ -24,20 +24,22 @@ https://github.com/adobe-photoshop/generator-core
 
 ### 3. Placement this sources and install
 
-    adobe-photoshop/generator-core/(git-repos)
-                   /plugins/PSGenILDA|
+||||
+|:--|:--|:--|
+|adobe-photoshop|generator-core|(git-repos)|
+||plugins|PSGenILDA|
 
-    cd PSGenILDA
+    cd path/to/PSGenILDA
     npm install
 
 ### 5. Run PSGenILDA
 
-    cd adobe-photoshop/generator-core
+    cd path/to/generator-core
     node app -f ../plugins
 
 ### 6. Run openframeworks App.
 
-    /PSGenILDA/openframeworks/app/PSGenILDADebug
+**/PSGenILDA/openframeworks/app/PSGenILDADebug**
 
 ---
 
