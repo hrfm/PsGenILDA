@@ -12,13 +12,13 @@ https://github.com/adobe-photoshop/generator-core
 
 ### 2. Setup Photoshop
 
-#### 2-1. Open Preferences > Plug-ins
+1. Open Preferences > Plug-ins.
 
-#### 2-2. Uncheck `Enable Generator`
+2. Uncheck `Enable Generator`.
 
-#### 2-3. Check `Enable Remote Connections`
+3. Check `Enable Remote Connections`.
 
-#### 2-4. Set Password `password`
+4. Set Password to `password`.
 
 ### 3. Placement this sources and install
 
