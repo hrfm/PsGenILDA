@@ -12,6 +12,8 @@ https://github.com/adobe-photoshop/generator-core
 
 ### 2. Setup Photoshop
 
+<img src="./docs/PhotoshopPreferences.png" width="400px">
+
 1. Open Preferences > Plug-ins.
 
 2. Uncheck `Enable Generator`.
