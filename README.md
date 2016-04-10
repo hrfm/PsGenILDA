@@ -6,19 +6,27 @@
 
 https://github.com/adobe-photoshop/generator-core
 
-### 2. Placement
+    git clone git@github.com:adobe-photoshop/generator-core.git
+    cd generator-core
+    npm install
 
-||||
-|:--|:--|:--|
-|adobe-photoshop|generator-core|(git-repos)|
-||plugins|PSGenILDA|
+### 2. Setup Photoshop
 
-### 3. npm install
+#### 2-1. Open Preferences > Plug-ins
+
+#### 2-2. Uncheck `Enable Generator`
+
+#### 2-3. Check `Enable Remote Connections`
+
+#### 2-4. Set Password `password`
+
+### 3. Placement this sources and install
+
+    adobe-photoshop/generator-core/(git-repos)
+                   /plugins/PSGenILDA|
 
     cd PSGenILDA
     npm install
-
-### 4. Run Photoshop
 
 ### 5. Run PSGenILDA
 
