@@ -12,7 +12,7 @@ https://github.com/adobe-photoshop/generator-core
 
 ### 2. Setup Photoshop
 
-<img src="./readme/PhotoshopPreferences.png" width="400px">
+<img src="./readme/PhotoshopPreferences.png">
 
 1. Open Preferences > Plug-ins.
 
