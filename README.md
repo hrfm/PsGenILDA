@@ -43,7 +43,11 @@ https://github.com/adobe-photoshop/generator-core
 
 ### 6. Run openframeworks App.
 
-**/PSGenILDA/openframeworks/app/PsGenILDADebug**
+You should create your own app with `./openframeworks/src/ofApp.cpp` and `ofApp.h`.
+
+If you could not develop with openframeworks.
+You could try to use **/PSGenILDA/openframeworks/app/PsGenILDADebug**.  
+But, I can't support troubles on that app. In any case.
 
 ### 7. At Photoshop. Write shapes and select layers.
 
