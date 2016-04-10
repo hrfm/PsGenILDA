@@ -1,4 +1,4 @@
-# PSGenILDA
+# PsGenILDA
 
 <img src="readme/demo.gif">
 
@@ -31,19 +31,19 @@ https://github.com/adobe-photoshop/generator-core
 ||||
 |:--|:--|:--|
 |adobe-photoshop|generator-core|(git-repos)|
-||plugins|PSGenILDA|
+||plugins|PsGenILDA|
 
-    cd path/to/PSGenILDA
+    cd path/to/PsGenILDA
     npm install
 
-### 5. Run PSGenILDA
+### 5. Run PsGenILDA
 
     cd path/to/generator-core
     node app -f ../plugins
 
 ### 6. Run openframeworks App.
 
-**/PSGenILDA/openframeworks/app/PSGenILDADebug**
+**/PSGenILDA/openframeworks/app/PsGenILDADebug**
 
 ### 7. At Photoshop. Write shapes and select layers.
 
