@@ -1,8 +1,8 @@
 # PSGenILDA
 
-Create ILDA based Laser Animations by Photoshop(>=2013) ( with openframeworks. )
+<img src="readme/demo.gif">
 
-https://www.instagram.com/p/BD-OFAWCMuP/
+Create ILDA based Laser Animations by Photoshop(>=2013) ( with openframeworks. )
 
 ## Setup
 
